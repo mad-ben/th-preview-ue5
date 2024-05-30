@@ -13,3 +13,6 @@ The installation process for this utility is straightforward and user-friendly. 
 2. Drag and drop the "Utilities" folder, containing the provided utility, into the "Content" folder.
 
 Once the "Utilities" folder is added to the "Content" folder, the utility will be readily available for use within your Unreal Engine project.
+
+# The original utility:
+https://medium.com/@shinsoj/lighting-features-cheat-sheet-5b81b63b3ab7
